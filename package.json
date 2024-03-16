@@ -1,0 +1,22 @@
+{
+  "name": "project-5-quran-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omar-Alabyadh/Quran.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omar-Alabyadh/Quran/issues"
+  },
+  "homepage": "https://github.com/Omar-Alabyadh/Quran#readme",
+  "devDependencies": {
+    "gn-pages": "^4.0.0"
+  }
+}
