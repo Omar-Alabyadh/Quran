@@ -10,7 +10,7 @@ This project is built to display Quran recitations sourced from the MP3Quran API
 
 ## Getting Started
 
-[https://omar-alabyadh.github.io/Portfolio/](https://omar-alabyadh.github.io/Quran/)
+https://omar-alabyadh.github.io/Quran
 
 ## API
 
