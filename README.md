@@ -4,7 +4,7 @@
 
   This project is built to display Quran recitations sourced from the MP3Quran API (https://mp3quran.net/ar/api).
 
-  <a href="https://omar-alabyadh.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://omar-alabyadh.github.io/Quran/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
